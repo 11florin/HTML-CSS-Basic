@@ -7,12 +7,11 @@ Custom font (Cormorant) for a refined, artistic feel
 
 Simple navigation bar with active link styling
 
-About & contact section for easy reach
-
 Getting Started
+
 To run locally:
 
-Clone this repo:
+Clone this repo: https://github.com/11florin/HTML-CSS-Basic.git
 
 Open index.html in your browser.
 
